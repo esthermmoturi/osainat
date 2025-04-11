@@ -1,0 +1,32 @@
+# Ignore Hugo's public directory (where the site is built)
+public/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files and caches
+hugo_cache/
+hugo_stats.json
+
+# Ignore editor-specific files (VSCode, Sublime, etc.)
+.vscode/
+.idea/
+
+# Ignore .env files or any sensitive configurations
+.env
+
+# Ignore local config files
+/config.toml.local
+
+# Ignore node_modules if you use Node.js for any reason (e.g., npm or yarn)
+node_modules/
+
+# Ignore files created by other static site generators (e.g., Jekyll, Hexo)
+_jekyll/
+
+# Ignore log files
+*.log
+
+# Ignore Hugo's build lock file
+.hugo_build.lock
