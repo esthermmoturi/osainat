@@ -1,0 +1,11 @@
+baseURL = "https://osainat.netlify.app/"
+title = "Osainat"
+theme = "PaperMod"
+languageCode = "en-us"
+paginate = 10
+
+[params]
+  author = "Mariachana Moturi"
+  showReadingTime = true
+  defaultTheme = "auto"
+  showCodeCopyButtons = true
