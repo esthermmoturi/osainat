@@ -6,3 +6,4 @@
   HUGO_VERSION = "0.121.1" # or your current Hugo version
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
+  
