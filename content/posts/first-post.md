@@ -1,5 +1,7 @@
-+++
-title = 'First Post'
-date = 2025-04-11T14:58:11+03:00
-draft = true
-+++
+---
+title: "Welcome to Osainat"
+date: 2025-04-11
+draft: false
+---
+
+Welcome to Osainat! This is where I share insights on **Open Source**, **AI**, and **Digital Public Goods**.
